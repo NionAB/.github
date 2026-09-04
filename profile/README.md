@@ -1,18 +1,4 @@
-# We are Nion
-
-```text
-                                   ⣿⣿⣿⣿
-                                   ⣿⣿⣿⣿
-                          ⣀⣀⣀⣀               ⢀⣀⣀⣀⣀             ⢀⣀⣀⣀⡀
-      ⣿             ⣿⣿⣿⣿⢠⣴⣿⣿⣿⣿⣿⣿⣦   ⣿⣿⣿⣿   ⣠⣴⣿⣿⣿⣿⣿⣿⣿⣷⣤⡀  ⢸⣿⣿⣿⣇⣴⣾⣿⣿⣿⣿⣿⣶⡄
-⢠⣄    ⣿    ⢀⣠      ⣿⣿⣿⣿⣿⠟⠛⠛⠛⣿⣿⣿⣿⣇  ⣿⣿⣿⣿  ⣰⣿⣿⣿⡿⠛⠉⠙⠻⣿⣿⣿⣷⡀ ⢸⣿⣿⣿⣿⡿⠛⠛⠛⢿⣿⣿⣿⣿
- ⠈⠙⠲⣤⡀⢿⣀⣀⡴⠞⠋⠁      ⣿⣿⣿⣿⠇    ⢸⣿⣿⣿⣿  ⣿⣿⣿⣿ ⢠⣿⣿⣿⣿     ⢸⣿⣿⣿⣧ ⢸⣿⣿⣿⡟     ⣿⣿⣿⣿
-     ⣹ ⣉⣉          ⣿⣿⣿⣿     ⢸⣿⣿⣿⣿  ⣿⣿⣿⣿ ⢸⣿⣿⣿⣯     ⢸⣿⣿⣿⣿ ⢸⣿⣿⣿⡇     ⣿⣿⣿⣿
- ⢀⣤⠶⠛⠁⣾⠁⠉⠛⠶⣄⡀      ⣿⣿⣿⣿     ⢸⣿⣿⣿⣿  ⣿⣿⣿⣿ ⠈⣿⣿⣿⣿⡀    ⣸⣿⣿⣿⡟ ⢸⣿⣿⣿⡇     ⣿⣿⣿⣿
-⠘⠋    ⣿    ⠈⠉      ⣿⣿⣿⣿     ⢸⣿⣿⣿⣿  ⣿⣿⣿⣿  ⠘⣿⣿⣿⣿⣦⣤⣤⣾⣿⣿⣿⡟⠁ ⢸⣿⣿⣿⡇     ⣿⣿⣿⣿
-      ⣿            ⣿⣿⣿⣿     ⢸⣿⣿⣿⣿  ⣿⣿⣿⣿   ⠈⠛⠿⣿⣿⣿⣿⣿⡿⠟⠋   ⢸⣿⣿⣿⡇     ⣿⣿⣿⣿
-
-```
+# Nion
 
 We turn cloud principles into real software delivery impact. At Nion, software development is our core business: end-to-end, across the entire application lifecycle. With 20+ years of experience and hundreds of clients, we’ve built a delivery approach designed around quality, flexibility, and true business value.
 
@@ -20,8 +6,8 @@ Our teams build secure, robust applications, data platforms, AI solutions, and w
 
 Say hello:
 
-- Website: [nionit.com](https://www.nionit.com)
+- Website: [nionit.com](https://nionit.com)
 - Email: [contact@nionit.com](mailto:contact@nionit.com)
 - LinkedIn: [linkedin.com/company/nionit](https://www.linkedin.com/company/nionit)
 - Trust Center: [trust.nionit.com](https://trust.nionit.com)
-- Careers: [open positions](https://career.nionit.com/#jobs)
+- Careers: [career.nionit.com](https://career.nionit.com/#jobs)
