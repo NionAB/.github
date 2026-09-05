@@ -43,16 +43,16 @@ Keep pull requests focused and reasonably small. Describe **what** changed and *
 
 ## Use of AI
 
-We support using AI (for example, LLMs) as tools for coding. However, you remain responsible for any code you publish, and we are responsible for any code we merge and release. We hold a high bar for all contributions.
+AI tools can be useful when contributing, and you are welcome to use them when writing code. You are responsible for the changes you submit, and we are responsible for what we merge.
 
-**AI should not be used to generate comments when communicating with maintainers.** We expect comments to be written by humans. We may hide any comments that we believe are AI generated.
+We ask that communication with maintainers remains human-written. In particular:
 
-If you are opening an issue, we expect you to describe the problem in your own words.
+- Describe issues in your own words.
+- You may use AI to prepare a pull request description, but clearly label it as AI-generated.
+- Review comments, answers to questions, and follow-up requests or code changes must be written and handled by you. Please do not paste AI-generated responses to maintainers.
 
-If you are opening a pull request, we expect you to be able to explain the proposed changes in your own words. This includes the pull request body and responses to questions. **Do not copy responses from the AI when replying to questions from maintainers.**
+You should understand the changes you submit and remain involved throughout the contribution. Autonomous agents must not be used to open or update pull requests, and pull requests that appear to be created this way may be closed.
 
-We require a human in the loop who understands the work produced by AI. **We do not allow autonomous agents to be used for contributing to our projects.** We will close any pull requests that we believe were created autonomously.
+If you need to share output from an AI interaction, put it in a quote block and identify it as AI-generated. Add a short explanation in your own words and keep the quoted content brief.
 
-If you wish to include context from an interaction with AI in your comments, it must be in a quote block (for example, using `>`) and disclosed as such. It must be accompanied by human commentary explaining the relevance and implications of the context. Do not share long snippets.
-
-We understand that AI is useful when communicating as a non-native English speaker. If you are using AI to edit your comments for this purpose, please take the time to ensure it reflects your own voice and ideas.
+If English is not your first language, AI can be used to help with wording or translation. Please make sure the final result reflects your own voice and ideas.
