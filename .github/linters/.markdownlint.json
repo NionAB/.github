@@ -14,6 +14,7 @@
   "fenced-code-language": {
     "allowed_languages": [
       "bash",
+      "console",
       "html",
       "json",
       "markdown",
