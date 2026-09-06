@@ -43,16 +43,13 @@ Keep pull requests focused and reasonably small. Describe **what** changed and *
 
 ## Use of AI
 
-AI tools can be useful when contributing, and you are welcome to use them when writing code. You are responsible for the changes you submit, and we are responsible for what we merge.
+You are welcome to use AI tools when writing code or preparing contribution materials. You remain responsible for the changes you submit, and we are responsible for what we merge.
 
-We ask that communication with maintainers remains human-written. In particular:
+Please keep communication with maintainers human-written:
 
-- Describe issues in your own words.
-- You may use AI to prepare a pull request description, but clearly label it as AI-generated.
-- Review comments, answers to questions, and follow-up requests or code changes must be written and handled by you. Please do not paste AI-generated responses to maintainers.
+- **Issues & Reviews:** Describe issues, reply to code reviews, and answer maintainer questions in your own words. Do not paste AI-generated responses.
+- **PR Descriptions:** You may use AI to draft pull request descriptions, but they must be clearly labeled as AI-generated.
+- **AI Quotes:** If you need to share output from an AI model, put it in a brief blockquote (`>`) and identify it as AI-generated.
+- **Language Assistance:** If English is not your native language, you may use AI for translation or phrasing. Make sure the final result still reflects your own thoughts and ideas.
 
-You should understand the changes you submit and remain involved throughout the contribution. Autonomous agents must not be used to open or update pull requests, and pull requests that appear to be created this way may be closed.
-
-If you need to share output from an AI interaction, put it in a quote block and identify it as AI-generated. Add a short explanation in your own words and keep the quoted content brief.
-
-If English is not your first language, AI can be used to help with wording or translation. Please make sure the final result reflects your own voice and ideas.
+**Autonomous agents may not be used to open or update pull requests.** Someone who understands the proposed changes must remain involved throughout the process.
